@@ -16,7 +16,7 @@ Throughout completing this assignment I was tasked to focus on the following:
 
 ### Objective
 
-This assignment was designed to help us apply the CSS and HTML skills that we've accumulated thus far, while giving us a test what it's like to refactor a webpage in an agile environment. 
+This assignment was designed to help us apply the CSS and HTML skills that we've accumulated thus far, while giving us a taste of what it's like to refactor a webpage in an agile environment. 
 
 In completing this task we explored:
 1. HTML and CSS basics
