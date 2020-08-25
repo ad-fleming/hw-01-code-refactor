@@ -2,7 +2,9 @@
 
 ## Objective
 
-This assignment focuses on refactoring an existing webpage to improve its accessibility. 
+This assignment focuses on refactoring an existing webpage to improve its accessibility.
+
+### Tasks
 
 Throughout completing this assignment I was tasked to focus on the following:
 
