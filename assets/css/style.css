@@ -8,10 +8,11 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed color to meet accessibility standars and make text more legible. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #0072bb;
     color: #ffffff;
 }
 
@@ -94,6 +95,7 @@ p {
     margin-left: 25px;
 }
 
+/* Changed background color to match main content to meet accessibility criteria */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,7 +104,7 @@ aside {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0072bb;
 }
 
 .asideContentItem {
