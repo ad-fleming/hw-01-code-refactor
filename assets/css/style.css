@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Changed color to meet accessibility standars and make text more legible. */
+/* Changed color to meet accessibility standars and make text more legible. c */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,8 +47,9 @@ a {
     text-decoration: none;
 }
 
+/* Changed font size to be more easily read */
 p {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .hero {
