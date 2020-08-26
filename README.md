@@ -23,7 +23,11 @@ In completing this task we explored:
 1. Logical and meaningful organization of code
 1. Agile Methodology
 1. Working with Repositories
-1. Utilizing Markdown 
+1. Utilizing Markdown
+
+### Link
+
+Visit the webpage here: [HW 01 HoriSEOn Refactor] ( https://ad-fleming.github.io/hw-01-code-refactor/.)
 
 
 
