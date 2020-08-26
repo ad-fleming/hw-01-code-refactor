@@ -27,7 +27,7 @@ In completing this task we explored:
 
 ### Link
 
-Visit the webpage here: [HW 01 HoriSEOn Refactor] ( https://ad-fleming.github.io/hw-01-code-refactor/.)
+Visit the webpage here:  https://ad-fleming.github.io/hw-01-code-refactor/.
 
 
 
