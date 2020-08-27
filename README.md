@@ -27,6 +27,9 @@ In completing this task we explored:
 1. Working with Repositories
 1. Utilizing Markdown
 
+### Credits
+This assignment was assigned by the Geogia Tech Coding Bootcamp. The code for the webpage which you see was provided to us. The refactored code was written by myself with the collaboration of fellow classmates. 
+
 ### Install
 
 You can clone this repository by hitting the green 'clone' button above and copying the SSH key into a directory which you create on your local machine.
