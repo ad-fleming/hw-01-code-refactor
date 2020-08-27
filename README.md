@@ -20,12 +20,20 @@ This assignment was designed to help us apply the CSS and HTML skills that we've
 
 In completing this task we explored:
 1. HTML and CSS basics
+1. Incorporating semantic elements in HTML
+1. Refactoring to meet accessibility standards
 1. Logical and meaningful organization of code
 1. Agile Methodology
 1. Working with Repositories
 1. Utilizing Markdown
 
+### Install
+
+You can clone this repository by hitting the green 'clone' button above and copying the SSH key into a directory which you create on your local machine.
+
 ### Link
+
+Repository Link: https://github.com/ad-fleming/hw-01-code-refactor
 
 Visit the webpage here:  https://ad-fleming.github.io/hw-01-code-refactor/.
 
